@@ -10,6 +10,7 @@ body{
     align-items: center;
     padding-top: 20px;
     height: 100vh;
+    overflow: hidden;
 }
 #grid{
     display: grid;
